@@ -20,10 +20,6 @@
     "disable_custom_worlds_advice.mixins.json"
   ],
   "depends": {
-    "fabricloader": "*",
-    "minecraft": [
-      "~1.16.2",
-      "~1.17"
-    ]
+    "fabricloader": "*"
   }
 }
